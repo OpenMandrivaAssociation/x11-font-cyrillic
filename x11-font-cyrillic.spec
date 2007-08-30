@@ -1,11 +1,10 @@
 Name: x11-font-cyrillic
 Version: 1.0.0
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: X11 fonts cyrillic
 Group: Development/X11
 License: GPL
 BuildArch: noarch
-
 Requires: x11-font-alias
 Requires: x11-font-cronyx-cyrillic
 Requires: x11-font-misc-cyrillic
@@ -19,6 +18,3 @@ install this package.
 
 %files
 %defattr(-,root,root)
-
-
-
