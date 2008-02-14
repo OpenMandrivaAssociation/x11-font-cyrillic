@@ -3,6 +3,7 @@ Version: 1.0.0
 Release: %mkrel 5
 Summary: X11 fonts cyrillic
 Group: Development/X11
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License: GPL
 BuildArch: noarch
 Requires: x11-font-alias
