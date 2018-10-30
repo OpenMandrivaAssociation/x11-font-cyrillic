@@ -1,6 +1,6 @@
 Name: x11-font-cyrillic
 Version: 1.0.0
-Release: 21
+Release: 22
 Summary: X11 fonts cyrillic
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
