@@ -1,6 +1,6 @@
 Name: x11-font-cyrillic
 Version: 1.0.0
-Release: 23
+Release: 24
 Summary: X11 fonts cyrillic
 Group: Development/X11
 License: GPL
